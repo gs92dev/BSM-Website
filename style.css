@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 16px;
+}
+
+#table--BSM {
+  margin: 2rem;
+}
+h2 {
+  margin: 2rem;
+}
+.cards--div {
+  background-color: #4343c7;
+  margin: 2rem;
+  width: 95%;
+  height: 18.75rem;
+  display: flex;
+  align-items: center;
+}
+.cards-squares {
+  height: 50%;
+  width: 9.375rem;
+  background-color: #efbf6b;
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.form {
+  margin: 2rem;
+}
+.form h2 {
+  margin: 0;
+  margin-bottom: 2rem;
+}
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+img {
+  width: 20%;
+}
+footer {
+  text-align: center;
+}
